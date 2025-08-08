@@ -1,6 +1,7 @@
-# Competitve-programming
+# Competitve-Programming
 My solutions to competitive programming problems from platforms such as Kattis, LeetCode, and Codeforces 💻🚀📚✅
 -------------------------------------------------------------------------------------------------------------------
 
-This is my solution for two sum Leetcode problem, here --> https://github.com/FaisalDev09/Competitve-programming/blob/main/two_sum.py
-
+ 25/08/08
+ Two sum Leetcode problem 
+ Tap here to se solution https://github.com/FaisalDev09/Competitve-programming/blob/main/two_sum.py
