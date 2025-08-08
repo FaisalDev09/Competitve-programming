@@ -7,7 +7,7 @@ if len(vikter) != n:
     exit()
 sorterade_vikter = sorted(vikter)
 resultat = {}
-for i , vikt in enumerate(sorterade_vikter):
+for i , vikt in enumerate(sorterade_vikter): 
     resultat [vikt]  = i
 
 for v in vikter:
