@@ -1,4 +1,4 @@
-# Competitve-Programming
+# Competitive”-Programming
 My solutions to competitive programming problems from platforms such as Kattis, LeetCode, and Codeforces 💻🚀📚✅
 -------------------------------------------------------------------------------------------------------------------
 
@@ -8,3 +8,8 @@ My solutions to competitive programming problems from platforms such as Kattis, 
 [Click here to see the solution for pivot problem](https://github.com/FaisalDev09/Competitve-programming/blob/main/privot.py)  
 [Here is the basics of Priority Queue](https://github.com/FaisalDev09/Competitve-programming/blob/main/priority_queue.py)
 
+### 2025-08-15
+**Set data structure** - practising the basics 
+[Here is the basics of a set data structre](https://github.com/FaisalDev09/Competitve-programming/blob/main/set.pract.py)
+**Map/dictionary data structure** - practising the basics
+[Here is the basics of a dictionary data structre](https://github.com/FaisalDev09/Competitve-programming/blob/main/map.prac.py)
