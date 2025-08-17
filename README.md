@@ -2,13 +2,13 @@
 My solutions to competitive programming problems from platforms such as Kattis, LeetCode, and Codeforces 💻🚀📚✅
 -------------------------------------------------------------------------------------------------------------------
 
+### 2025-08-16
+**Set and Map challenges**  
+[Click here to see the Map-problem](https://open.kattis.com/problems/babelfish)
+[Click here to see the solution](https://github.com/FaisalDev09/Competitve-programming/blob/main/babelfish.py)
 
-### 2025-08-14
-**Pivot** - Kattis problem from Principles of Algorithmic Problem Solving book
-[Click here to see the Pivot problem](https://open.kattis.com/problems/pivot)
-[Click here to see the solution](https://github.com/FaisalDev09/Competitve-programming/blob/main/privot.py)  
-
-[Here is the basics of Priority Queue](https://github.com/FaisalDev09/Competitve-programming/blob/main/priority_queue.py)
+[Click here to see the Set-problem](https://open.kattis.com/problems/securedoors)
+[Click here to see the solution](https://github.com/FaisalDev09/Competitve-programming/blob/main/secure_doors.py)
 
 ### 2025-08-15
 **Set data structure** - practising the basics 
@@ -17,12 +17,15 @@ My solutions to competitive programming problems from platforms such as Kattis, 
 **Map/dictionary data structure** - practising the basics
 [Here is the basics of a dictionary data structre](https://github.com/FaisalDev09/Competitve-programming/blob/main/map.prac.py)
 
-### 2025-08-16
-**Set and Map challenges**  
-[Click here to see the Map-problem](https://open.kattis.com/problems/babelfish)
-[Click here to see the solution](https://github.com/FaisalDev09/Competitve-programming/blob/main/babelfish.py)
+### 2025-08-14
+**Pivot** - Kattis problem from Principles of Algorithmic Problem Solving book
+[Click here to see the Pivot problem](https://open.kattis.com/problems/pivot)
+[Click here to see the solution](https://github.com/FaisalDev09/Competitve-programming/blob/main/privot.py)  
 
-[Click here to see the Set-problem](https://open.kattis.com/problems/securedoors)
-[Click here to see the solution](https://github.com/FaisalDev09/Competitve-programming/blob/main/secure_doors.py)
+[Here is the basics of Priority Queue](https://github.com/FaisalDev09/Competitve-programming/blob/main/priority_queue.py)
+
+
+
+
 
 
