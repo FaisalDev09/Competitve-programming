@@ -1,9 +1,11 @@
 # Competitive-Programming
 My solutions to competitive programming problems from platforms such as Kattis, LeetCode, and Codeforces 💻🚀📚✅
--------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
 
 ## 2025-08-17
 **Important mathematical functions for algorithmic problems**
+
 [Click here to see the math functions in python](https://github.com/FaisalDev09/Competitve-programming/blob/main/math_functions.py)
 
 ### 2025-08-16
