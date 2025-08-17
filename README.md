@@ -3,10 +3,10 @@ My solutions to competitive programming problems from platforms such as Kattis, 
 ------------------------------------------------------------------------------
 
 
-## 2025-08-17
-**Important mathematical functions for algorithmic problems**
+### 2025-08-17
+**Important mathematical functions for algorithmic problems**  
+[Click here to see the math functions in Python](https://github.com/FaisalDev09/Competitive-programming/blob/main/math_functions.py)
 
-[Click here to see the math functions in python](https://github.com/FaisalDev09/Competitve-programming/blob/main/math_functions.py)
 
 ### 2025-08-16
 **Set and Map challenges**  
