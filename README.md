@@ -4,7 +4,7 @@ My solutions to competitive programming problems from platforms such as Kattis, 
 
 
 ### 2025-08-18
-**Vacuumba Kattis problem**
+**Vacuumba Kattis Problem**
 [Click here to see the solution](https://github.com/FaisalDev09/Competitve-programming/blob/main/vacuumba.py)
 [Click here to see the problem](https://open.kattis.com/problems/vacuumba)
 
