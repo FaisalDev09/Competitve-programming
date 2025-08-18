@@ -3,6 +3,11 @@ My solutions to competitive programming problems from platforms such as Kattis, 
 ------------------------------------------------------------------------------
 
 
+### 2025-08-18
+**Vacuumba Kattis problem**
+[Click here to see the solution](https://github.com/FaisalDev09/Competitve-programming/blob/main/vacuumba.py)
+[Click here to see the problem](https://open.kattis.com/problems/vacuumba)
+
 ### 2025-08-17
 **Important mathematical functions for algorithmic problems**  
 [Click here to see the math functions in Python](https://github.com/FaisalDev09/Competitve-programming/blob/main/math_functions.py)
