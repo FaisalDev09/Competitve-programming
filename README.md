@@ -3,6 +3,13 @@ My solutions to competitive programming problems from platforms such as Kattis, 
 ------------------------------------------------------------------------------
 
 
+### 2025-08-19
+**Ladder Kattis problem**
+
+[Click here to see the solution](https://github.com/FaisalDev09/Competitve-programming/blob/main/ladder.py)
+[Click here to see the problem](https://open.kattis.com/problems/ladder)
+
+
 ### 2025-08-18
 **Vacuumba Kattis Problem**
 
