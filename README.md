@@ -3,6 +3,12 @@ My solutions to competitive programming problems from platforms such as Kattis, 
 ------------------------------------------------------------------------------
 
 
+### 2025-08-20
+**Review of Pivot Problem**
+
+[Click here to see the solution](https://github.com/FaisalDev09/Competitve-programming/blob/main/review_pivot.py)
+
+
 ### 2025-08-19
 **Ladder Kattis problem**
 
