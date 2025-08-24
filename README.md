@@ -1,6 +1,15 @@
 # Competitive-Programming
 My solutions to competitive programming problems from platforms such as Kattis, LeetCode, and Codeforces 💻🚀📚✅
 ------------------------------------------------------------------------------
+
+
+### 2025-08-24
+**Shopaholic Kattis Problem**
+
+[Click here to see the solution](https://github.com/FaisalDev09/Competitve-programming/blob/main/shopaholic.py)
+[Click here to see the problem](https://open.kattis.com/problems/shopaholic)
+
+
 ### 2025-08-23
 **Half a Cookie Kattis Problem**
 
