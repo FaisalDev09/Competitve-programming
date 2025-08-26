@@ -8,6 +8,7 @@ My solutions to competitive programming problems from platforms such as Kattis, 
 
 [Click here to see the solution](https://github.com/FaisalDev09/Competitve-programming/blob/main/busy_schedule.py)
 [Click here to see the problem](https://open.kattis.com/problems/busyschedule)
+
 [Click here to see the basic of sort function](https://github.com/FaisalDev09/Competitve-programming/blob/main/sorting_prac.py)
 
 
