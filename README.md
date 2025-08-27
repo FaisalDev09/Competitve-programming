@@ -5,10 +5,9 @@ My solutions to competitive programming problems from platforms such as Kattis, 
 
 ### 2025-08-27
 **Half a Cookie - review**
+
 [Click here to see the solution](https://github.com/FaisalDev09/Competitve-programming/blob/main/review_half_a_cookie.py)
 [Click here to see the problem](https://open.kattis.com/problems/halfacookie)
-
-
 
 
 ### 2025-08-26
