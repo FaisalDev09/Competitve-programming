@@ -1,6 +1,14 @@
 # Competitive-Programming
 My solutions to competitive programming problems from platforms such as Kattis, LeetCode, and Codeforces 💻🚀📚✅
-------------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+
+### 2025-08-29
+**Massive Card Game - time Time Limit Exceeded> 1.00 s**
+
+[Click here to see how far I have come on today's task](https://github.com/FaisalDev09/Competitve-programming/blob/main/massive_card_game.py)
+[Click here to see the problem](https://open.kattis.com/problems/massivecardgame)
+
 
 
 ### 2025-08-28
