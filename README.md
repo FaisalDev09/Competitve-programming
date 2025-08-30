@@ -10,6 +10,7 @@ My solutions to competitive programming problems from platforms such as Kattis, 
 [Click here to see the problem](https://open.kattis.com/problems/massivecardgame)
 
 [Click here to see the start of the solution for "Veci" - Kattis Permutations problem](https://github.com/FaisalDev09/Competitve-programming/blob/main/veci.py)
+[Click here to see the problem](https://open.kattis.com/problems/veci)
 
 [Click here to the basic of Permutations in python](https://github.com/FaisalDev09/Competitve-programming/blob/main/Permutations_prac.py)
 
