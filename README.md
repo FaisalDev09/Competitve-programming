@@ -3,6 +3,18 @@ My solutions to competitive programming problems from platforms such as Kattis, 
 -----------------------------------------------------------------------------
 
 
+### 2025-08-30
+**Massive Card Game - Kattis passed**
+
+[Click here to see the solution](https://github.com/FaisalDev09/Competitve-programming/blob/main/massive_card_game_fast.py)
+[Click here to see the problem](https://open.kattis.com/problems/massivecardgame)
+
+[Click here to see the start of the solution for "Veci" - Kattis Permutations problem](https://github.com/FaisalDev09/Competitve-programming/blob/main/veci.py)
+
+[Click here to the basic of Permutations in python](https://github.com/FaisalDev09/Competitve-programming/blob/main/Permutations_prac.py)
+
+
+
 ### 2025-08-29
 **Massive Card Game - time Time Limit Exceeded> 1.00 s**
 
