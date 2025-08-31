@@ -7,25 +7,33 @@ My solutions to competitive programming problems from platforms such as Kattis, 
 **Next Permutations, strings, and conversions problem**
 
 [Click here to see the solution for the veci problem](https://github.com/FaisalDev09/Competitve-programming/blob/main/veci.py)
+
 [Click here to see the problem](https://open.kattis.com/problems/veci)
 
 [Click here to see the solution for "Next permuation" - Leetcode problem ](https://github.com/FaisalDev09/Competitve-programming/blob/main/next_permutation.py)
+
 [Click here to see the problem](https://leetcode.com/problems/next-permutation/description/)
 
 [Click here to see the solution for autori - kattis problem](https://github.com/FaisalDev09/Competitve-programming/blob/main/autori.py)
+
 [Click here to see the problem](https://open.kattis.com/problems/autori)
 
 [Click here to see the solution for detaileddifferences - kattis problem](https://github.com/FaisalDev09/Competitve-programming/blob/main/detaileddifferences.py)
+
 [Click here to see the problem](https://open.kattis.com/problems/detaileddifferences)
 
 [Click here to see the solution for skener - kattis problem](https://github.com/FaisalDev09/Competitve-programming/blob/main/skener.py)
+
 [Click here to see the problem](https://open.kattis.com/problems/skener)
 
 
 [Click here to see the solution for "filip" - kattis problem](https://github.com/FaisalDev09/Competitve-programming/blob/main/filip.py)
+
 [Click here to see the problem](https://open.kattis.com/problems/filip)
 
+
 [Click here to see the solution for "stacking cups" - kattis problem](https://github.com/FaisalDev09/Competitve-programming/blob/main/stacking_cups.py)
+
 [Click here to see the problem](https://open.kattis.com/problems/cups)
 
 
