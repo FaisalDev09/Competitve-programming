@@ -10,7 +10,7 @@ My solutions to competitive programming problems from platforms such as Kattis, 
 [Click here to see the problem](https://open.kattis.com/problems/veci)
 
 [Click here to see the solution for "Next permuation" - Leetcode problem ](https://github.com/FaisalDev09/Competitve-programming/blob/main/next_permutation.py)
-[Click here to see the problem](https://leetcode.com/problems/next-permutation/description)
+[Click here to see the problem](https://leetcode.com/problems/next-permutation/description/)
 
 [Click here to see the solution for autori - kattis problem](https://github.com/FaisalDev09/Competitve-programming/blob/main/autori.py)
 [Click here to see the problem](https://open.kattis.com/problems/autori)
