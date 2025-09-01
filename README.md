@@ -5,6 +5,7 @@ My solutions to competitive programming problems from platforms such as Kattis, 
 
 ### 2025-09-01
 **DetectingEndofFile - Kattis problems**
+
 [Click here to see the solution for "A different problem"](https://github.com/FaisalDev09/Competitve-programming/blob/main/A_different_problem.py)
 
 [Click here to see the problem](https://open.kattis.com/problems/different)
