@@ -3,6 +3,15 @@ My solutions to competitive programming problems from platforms such as Kattis, 
 -----------------------------------------------------------------------------
 
 
+### 2025-09-02
+**Bacon eggs and spam - Kattis problem**
+
+[Click here to see the solution](https://github.com/FaisalDev09/Competitve-programming/blob/main/bacon_eggs_and_spam.py)
+
+[Click here to see the problem](https://open.kattis.com/problems/baconeggsandspam)
+
+
+
 ### 2025-09-01
 **DetectingEndofFile - Kattis problems**
 
