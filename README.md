@@ -3,6 +3,15 @@ My solutions to competitive programming problems from platforms such as Kattis, 
 -----------------------------------------------------------------------------
 
 
+### 2025-09-03
+
+[Click here to see the solution](https://github.com/FaisalDev09/Competitve-programming/blob/main/compound_word.py)
+
+[Click here to see the problem](https://open.kattis.com/problems/compoundwords)
+
+
+
+
 ### 2025-09-02
 **Bacon eggs and spam - Kattis problem**
 
