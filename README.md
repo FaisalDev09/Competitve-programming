@@ -3,6 +3,17 @@ My solutions to competitive programming problems from platforms such as Kattis, 
 -----------------------------------------------------------------------------
 
 
+### 2025-09-05
+
+[Click here to see the solution for "Pizza crust" - Kattis problem](https://github.com/FaisalDev09/Competitve-programming/blob/main/Pizza_crust.py)
+
+[Click here to see the problem](https://open.kattis.com/problems/pizza2)
+
+[Click here to see the solution for "apaxia" - Kattis problem](https://github.com/FaisalDev09/Competitve-programming/blob/main/apaxia.py)
+
+[Click here to see the problem](https://open.kattis.com/problems/apaxiaaans)
+
+
 ### 2025-09-04
 
 [Click here to see the solution](https://github.com/FaisalDev09/Competitve-programming/blob/main/A_real_challenge.py)
