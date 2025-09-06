@@ -3,6 +3,19 @@ My solutions to competitive programming problems from platforms such as Kattis, 
 -----------------------------------------------------------------------------
 
 
+### 2025-09-06
+
+[Click here to see the solution for "Different distancest" - Kattis problem](https://github.com/FaisalDev09/Competitve-programming/blob/main/different_distances.py)
+
+[Click here to see the problem](https://open.kattis.com/problems/differentdistances)
+
+[Click here to see the solution for "Odd man out" - Kattis problem](https://github.com/FaisalDev09/Competitve-programming/blob/main/odd_man_out.py)
+
+[Click here to see the problem](https://open.kattis.com/problems/oddmanout)
+
+
+
+
 ### 2025-09-05
 
 [Click here to see the solution for "Pizza crust" - Kattis problem](https://github.com/FaisalDev09/Competitve-programming/blob/main/Pizza_crust.py)
