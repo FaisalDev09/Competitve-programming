@@ -1,6 +1,13 @@
 # Competitive-Programming
 My solutions to competitive programming problems from platforms such as Kattis, LeetCode, and Codeforces 💻🚀📚✅
------------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+
+### 2025-09-07
+
+[Didn't have time to start over, tomorrow continues with it](https://github.com/FaisalDev09/Competitve-programming/blob/main/kattis_time_bomb.py)
+
+[Click here to see the problem](https://open.kattis.com/problems/timebomb)
 
 
 ### 2025-09-06
