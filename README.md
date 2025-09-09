@@ -6,6 +6,17 @@ My solutions to competitive programming problems from platforms such as Kattis, 
 ### 2025-09-08
 **Time bomb- Kattis problem**
 
+[Click here to see the solution](https://github.com/FaisalDev09/Competitve-programming/blob/main/kattis_time_bomb.py)
+
+[Click here to see the problem](https://open.kattis.com/problems/timebomb)
+
+
+
+
+
+### 2025-09-08
+**Time bomb- Kattis problem**
+
 
 [How far I have come on the problem](https://github.com/FaisalDev09/Competitve-programming/blob/main/kattis_time_bomb.py)
 
