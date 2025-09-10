@@ -3,7 +3,17 @@ My solutions to competitive programming problems from platforms such as Kattis, 
 --------------------------------------------------------------------------
 
 
-### 2025-09-08
+### 2025-09-10
+**Missing gnomes- Kattis problem**
+[I didn't have time to write the solution but wrote a few things that I'll test tomorrow.](https://github.com/FaisalDev09/Competitve-programming/blob/main/missing_gnomes.py)
+
+[Click here to see the problem](https://open.kattis.com/problems/missinggnomes?tab=metadata)
+
+
+
+
+
+### 2025-09-09
 **Time bomb- Kattis problem**
 
 [Click here to see the solution](https://github.com/FaisalDev09/Competitve-programming/blob/main/kattis_time_bomb.py)
