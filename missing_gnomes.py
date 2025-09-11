@@ -1,2 +1,19 @@
-# Keep a list of all missing gnomes sorted
-#Build the result step by step by always choosing between the next missing and the next subsequence gnome.
+
+n, m = map(int,input().split())
+
+sekvens = []
+gnomes = set(range(1,n+1))
+for _ in range(m):
+    num = int(input())
+    sekvens.append(num)
+
+missing = sorted(gnomes - set(sekvens))
+
+for i in sekvens: 
+    
+
+
+
+
+    
+
