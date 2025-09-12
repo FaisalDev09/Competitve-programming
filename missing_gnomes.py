@@ -2,12 +2,12 @@
 n, m = map(int,input().split()) # n - total number of gnomes , m - number of gnomes which is left 
 
 sekvens = [] # contains the left gnomes
-gnomes = set(range(1,n+1))
+gnomes = set(range(1,n+1))# all gnome numbers from 1 to n 
 for _ in range(m):
     num = int(input())
     sekvens.append(num)
 
-missing = sorted(gnomes - set(sekvens)) # contain the missing gnomes (set - set)
+missing = sorted(gnomes - set(sekvens)) # contain the missing gnomes: all gnomes  - remaining gnomes, sorted in increasing order
 
 result = [] # final result 
 j = 0 # index för missing (to not use two loop)
