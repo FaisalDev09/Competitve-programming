@@ -4,6 +4,7 @@ My solutions to competitive programming problems from platforms such as Kattis, 
 
 
 ### 2025-09-12
+**Missing gnomes- Kattis problem**
 
 [completed solution :)](https://github.com/FaisalDev09/Competitve-programming/blob/main/missing_gnomes.py)
 
